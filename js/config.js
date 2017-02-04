@@ -98,7 +98,6 @@ var l_music = true;
 
 /*Display actual song's name?*/
 var l_musicDisplay = true;
-
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
@@ -123,8 +122,12 @@ var l_musicPlaylist = [
 	{youtube: "JzociagwnBw", name: "정준일 - 안아줘 "},
 	{youtube: "UlhR0zBFxZE", name: "소녀시대 - 그 여름 (0805) "},
 	{youtube: "pyJlW8V-OoI", name: "어반자카파(Urban Zakapa) - 널 사랑하지 않아 "},
-	{youtube: "UlhR0zBFxZE", name: "존 박(John Park) - 네 생각 "},
+	{youtube: "QLmOezNMPnY", name: "존 박(John Park) - 네 생각 "},
 	{youtube: "QTVgoVGojO8", name: "스탠딩 에그(Standing Egg) - 뚝뚝뚝 (with 예슬) "},
+	{youtube: "7Qp5vcuMIlk", name: "Ed Sheeran - Castle On The Hill "},
+	{youtube: "eRHRrHsIzzQ", name: "아이오아이(I.O.I) - 소나기"},
+	{youtube: "HDDAhWtpu2E", name: "Shawn Mendes - Like This "},
+	{youtube: "VdHAgXsiqR4", name: "다이아(DIA) - 그 길에서 "},	
 ];
 
 /*Random music order?*/
