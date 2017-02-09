@@ -92,7 +92,7 @@ var l_bgOverlay = true;
 0 for none (0%), 100 for pitch black (100%)*/
 var l_bgDarkening = 50;
 
-/*Music player
+ /*Music player
 'true' or 'false' to enable music in the background*/
 var l_music = true;
 
@@ -102,7 +102,7 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "Ev1QQILkXAM", name: "f(x) - Goodbye Summer (Amber+Luna+Krystal) (Feat. D.O. of EXO-K) "},
-	{youtube: "rtQWxollrkQ", name: "RADWIMPS – なんでもないや (movie ver.) / Nandemonaiya "},
+ 	{youtube: "rtQWxollrkQ", name: "RADWIMPS – なんでもないや (movie ver.) / Nandemonaiya "},
 	{youtube: "Vh7iHrD7PR4", name: "RADWIMPS - スパークル (movie ver.) / Sparkle "},
 	{youtube: "PDSkFeMVNFs", name: "RADWIMPS - 前前前世 (movie ver.) / Zenzenzense "},
 	{youtube: "37aGnzx-7b0", name: "RADWIMPS - 夢灯籠 / Dream lantern "},
@@ -125,9 +125,10 @@ var l_musicPlaylist = [
 	{youtube: "QLmOezNMPnY", name: "존 박(John Park) - 네 생각 "},
 	{youtube: "QTVgoVGojO8", name: "스탠딩 에그(Standing Egg) - 뚝뚝뚝 (with 예슬) "},
 	{youtube: "7Qp5vcuMIlk", name: "Ed Sheeran - Castle On The Hill "},
-	{youtube: "eRHRrHsIzzQ", name: "아이오아이(I.O.I) - 소나기"},
 	{youtube: "HDDAhWtpu2E", name: "Shawn Mendes - Like This "},
-	{youtube: "VdHAgXsiqR4", name: "다이아(DIA) - 그 길에서 "},	
+	{youtube: "fEw1dSIVt0Q", name: "Charlie Puth - Marvin Gaye (feat. Meghan Trainor) "},
+        {youtube: "OM1GWVUs5qU", name: "매드클라운 (Mad Clown) - 우리집을 못 찾겠군요 (Feat. 볼빨간사춘기) "},
+        {youtube: "vq1XSOXR3Js", name: "Red Velvet (레드벨벳) - Rookie "},		
 ];
 
 /*Random music order?*/
